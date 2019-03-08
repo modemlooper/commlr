@@ -22,7 +22,7 @@ function commlr_register_main_options_metabox() {
 
 	$main_options->add_field(
 		array(
-			'name'        => esc_html__( 'Premium Subscription', 'commlr' ),
+			'name'        => esc_html__( 'Premium Subscription dddd', 'commlr' ),
 			'id'          => 'license',
 			'after_field' => 'commlr_activate_button',
 			'type'        => 'text',
